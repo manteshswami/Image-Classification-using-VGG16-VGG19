@@ -1,6 +1,6 @@
 ## 🧠 Image Classification using VGG16 & VGG19
 
- *Pre-trained VGG16 and VGG19 models are used to classify real-world images using deep learning and transfer learning.*
+ *Pre-trained VGG16 and VGG19 models are used to classify real-world images using deep learning.*
 
 ### 🚀 Project Overview
 
@@ -71,5 +71,4 @@ This project uses CNN-based pretrained models trained on ImageNet to detect and 
 - Green Mamba Snake
 - African Elephant
   
-### 🔄 Transfer learning
- *Updating soon*
+
