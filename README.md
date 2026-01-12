@@ -4,7 +4,7 @@
 
 ### 🚀 Project Overview
 
-This project uses CNN-based pretrained models trained on ImageNet to detect and classify objects from input images such as animals, vehicles, etc.
+This project uses CNN-based pretrained models trained on ImageNet to detect and classify objects from input images such as flowers, animals, etc.
 
 ### 🛠 Tech Stack
 - Python
@@ -65,8 +65,11 @@ This project uses CNN-based pretrained models trained on ImageNet to detect and 
   plt.axis("off") 
   plt.show() 
 </code></pre>
+
 ### 🎯 Output
-#### The model correctly predicts objects such as:
+ *The model correctly predicts objects such as:*
 - Green Mamba Snake
 - African Elephant
-- with high confidence using transfer learning.
+  
+### 🔄 Transfer learning
+ *Updating soon*
